@@ -1,0 +1,75 @@
+{
+  "dishes": [
+    {
+      "name": "Pizza Margherita",
+      "ingredients": ["tomatoes", "mozzarella", "basil"],
+      "price": 9.99,
+      "spicy": false,
+      "description": "Classic Italian pizza with fresh tomatoes, mozzarella and basil.",
+      "reviews": [
+        {
+          "user": "John Doe",
+          "rating": 5,
+          "comment": "Best pizza ever!"
+        },
+        {
+          "user": "Jane Doe",
+          "rating": 4,
+          "comment": "Great pizza, but a bit too salty for my taste."
+        }
+      ]
+    },
+    {
+      "name": "Spaghetti Bolognese",
+      "ingredients": [
+        "spaghetti",
+        "beef",
+        "tomatoes",
+        "onion",
+        "garlic",
+        "olive oil"
+      ],
+      "price": 12.99,
+      "spicy": true,
+      "description": "Hearty Italian dish with spicy beef sauce and spaghetti.",
+      "reviews": [
+        {
+          "user": "John Doe",
+          "rating": 4,
+          "comment": "Nice and spicy, but a bit too much meat for me."
+        },
+        {
+          "user": "Jane Doe",
+          "rating": 5,
+          "comment": "Delicious! Just the right amount of spice."
+        }
+      ]
+    },
+    {
+      "name": "Tom-yum Soup",
+      "ingredients": [
+        "shrimps",
+        "spaghetti",
+        "tomatoes",
+        "mushrooms",
+        "chilli",
+        "coconut milk"
+      ],
+      "price": 10.99,
+      "spicy": true,
+      "description": "Tom Yum is a sweet and sour soup made from chicken broth with the addition of shrimp.",
+      "reviews": [
+        {
+          "user": "Megan Land",
+          "rating": 3,
+          "comment": "You can eat it, but without any taste pleasure."
+        },
+        {
+          "user": "Ryan Land",
+          "rating": 5,
+          "comment": "Delicious, elegant, spicy, awesome!"
+        }
+      ]
+    }
+  ]
+}
